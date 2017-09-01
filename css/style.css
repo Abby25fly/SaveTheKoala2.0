@@ -5,6 +5,9 @@ army green: 41521F;
 body {
 font-family: 'Montserrat', sans-serif;
 }
+.navbar{
+  border: none;
+}
 .navbar-default{
   background-color: #41521F;
 }
@@ -33,7 +36,7 @@ font-family: 'Montserrat', sans-serif;
 
 .text1{
   font-weight: bold;
-  padding-top: 200px;
+  padding-top: 250px;
   padding-left: 10%;
 }
 
@@ -45,7 +48,8 @@ font-family: 'Montserrat', sans-serif;
 
 /* Parte 2 */
 .parte2-section{
-	margin: 90px auto;*/
+	margin-top: 50px;
+  margin-bottom: 90px;
 }
 .part2{
   padding-top: 60px;
